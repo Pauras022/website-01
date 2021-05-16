@@ -1,0 +1,186 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+body{
+    background-color: rgb(173, 173, 173);
+}
+
+.ob1 {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(192, 192, 192);
+}
+
+.ob1 ul{
+margin-left: 0px;
+
+}
+.ob1 ul li{
+list-style: none;
+display: inline;
+float: left;
+line-height: 30px;
+}
+
+.ob1 ul li a{
+    display: block;
+text-decoration: none;
+font-size: 15px;
+font-family: 'KoHo', sans-serif;
+font-style: italic;
+padding: 0% 10px;
+color: white;
+}
+.ob1 ul li a:hover{
+    color: red;
+}
+.ob2 img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.ob2{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(137, 138, 135);
+}
+.ob2 ul{
+    margin-right: 0px;
+    
+    }
+    .ob2 ul li{
+    list-style: none;
+    display: inline;
+    float: right;
+    line-height: 30px;
+    }
+    
+    .ob2 ul li a{
+        display: block;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'KoHo', sans-serif;
+    font-style: italic;
+    padding: 4% 10px;
+    }
+    .ob2 ul li a:hover{
+        color: red;
+    }
+    .ob2 h2{
+        text-align: center;
+        font-size: 40px;
+        font-family:'KoHo', sans-serif;
+        color: yellow;
+    }
+    .ob3 {
+        width: 100%;
+        height: 25%;
+        background-color: white;
+    }
+    .ob3 img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .ob4{
+        
+        width: 33.33%;
+        float: left;
+        background-color: rgb(150, 160, 155);
+    }
+    .ob4 ul li{
+        list-style: none;
+        text-align: center;  
+    }
+    .ob4 ul li a{
+        display: block;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'KoHo', sans-serif;
+    }
+    .hd{
+        position: static;right: 50%;
+        text-align: center;
+        font-family: cursive;
+        color: tomato;
+        background-color: rgb(156, 97, 97);
+    }
+    .ob5{
+        float: left;
+        width: 33.33%;
+        text-align: center;
+        background-color:rgb(156, 97, 97) ;
+    }
+    .ob5 img{
+        height: 200px;
+        width: 200px;
+    }
+    .ob6{
+        width: 33.33%;
+        float: left;
+        background-color:rgb(156, 97, 97) ;
+    }
+    .ob6 ul li{
+        list-style: none;  
+    }
+    .ob6 ul li a{
+        display: block;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'KoHo', sans-serif;
+    text-align: center;
+    }
+    .ob7{
+        display: block;
+        padding-top: 50px;
+        width: 100%;
+        height: 30px;
+    }
+    .ob7 h2{
+        float: left;
+        padding-right: 500px;
+        padding-left: 20px;
+        font-size: 20px;
+    }
+    .ob7 ul li{
+        list-style: none;
+        display: inline;
+        float: left;
+        line-height: 30px;
+        padding-right: 30px;
+        }
+        .ob7 ul li img{
+            width: 20px;
+            height: 20px;
+        }
+     .ob8{
+         width: 50%;
+         height: 70px;
+         float: left;
+         background-color: thistle;
+     }   
+     .ob8 h2{
+         display: block;
+         float: left;
+         padding-top: 20px;
+         padding-left: 20px;
+         font-size: 15px;
+     }
+    .ob9{
+        width: 33.33%;
+        height: 70px;
+        float: left;
+        background-color: thistle;
+    }
+    .ob9 ul li{
+        list-style: none;  
+    }
+    .ob9 ul li a{
+        display: block;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'KoHo', sans-serif;
+    text-align: center;
+    }
